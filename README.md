@@ -14,6 +14,3 @@ Resources:
 - [react-simple-typewriter](https://www.npmjs.com/package/react-simple-typewriter)
 - [react-elastic-carousel](https://www.npmjs.com/package/react-elastic-carousel)
 
-extra routes: 
-# 1. Blog
-# 2. About
