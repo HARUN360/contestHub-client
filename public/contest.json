@@ -1,0 +1,72 @@
+[
+    {
+        "contestName": "Design Thinking Challenge",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 450,
+        "contestShortDescription": "A competition to showcase innovative design thinking solutions. Participants are encouraged to think outside the box, collaborate, and develop practical solutions to real-world problems. Compete and create for exciting rewards.",
+        "tags": ["Design", "Innovation", "Creativity"]
+    },
+    {
+        "contestName": "Hackathon 2024",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 300,
+        "contestShortDescription": "Join the largest hackathon event of the year with exciting challenges. Work with talented developers, build innovative projects, network with industry experts, and explore cutting-edge technology. Compete for fantastic prizes.",
+        "tags": ["Hackathon", "Technology", "Coding"]
+    },
+    {
+        "contestName": "AI Innovation Contest",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 980,
+        "contestShortDescription": "Showcase your AI solutions and win amazing prizes. Compete with the brightest minds, present your projects to a panel of experts, and innovate. Lead the future of artificial intelligence with groundbreaking solutions.",
+        "tags": ["AI", "Innovation", "Tech"]
+    },
+    {
+        "contestName": "Creative Writing Contest",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 300,
+        "contestShortDescription": "Unleash your creativity and share your stories with the world. Submit your original works, compete for the top prize, explore diverse themes, hone your writing skills, and gain recognition in the literary world.",
+        "tags": ["Writing", "Creativity", "Literature"]
+    },
+    {
+        "contestName": "Photography Competition",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 650,
+        "contestShortDescription": "Capture stunning moments and win exciting prizes. Showcase your talent, creativity, and technical skills in various categories. Gain exposure, receive feedback from professionals, and celebrate the art of photography.",
+        "tags": ["Photography", "Art", "Creativity"]
+    },
+    {
+        "contestName": "Coding Bootcamp Challenge",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 840,
+        "contestShortDescription": "Test your coding skills in our intensive bootcamp challenge. Solve complex problems, collaborate with peers, enhance your programming knowledge, and compete for top spots, prizes, and opportunities to advance your career.",
+        "tags": ["Coding", "Tech", "Bootcamp"]
+    },
+    {
+        "contestName": "Startup Pitch Contest",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 500,
+        "contestShortDescription": "Pitch your startup ideas and attract investors. Present your business plan, receive feedback from industry experts, network with potential partners, and compete for funding. Take your startup to the next level.",
+        "tags": ["Startup", "Entrepreneurship", "Pitch"]
+    },
+    {
+        "contestName": "Art and Design Competition",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 700,
+        "contestShortDescription": "Show off your art and design skills in this creative competition. Submit your best works, get feedback from top designers, compete for prizes, and celebrate creativity, innovation, and artistic expression in various mediums.",
+        "tags": ["Art", "Design", "Creativity"]
+    },
+    {
+        "contestName": "Mathematics Olympiad",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 1100,
+        "contestShortDescription": "Compete with the best minds in solving complex math problems. Test your skills in algebra, geometry, calculus, and more. Gain recognition, win prizes, and advance your mathematical knowledge and abilities.",
+        "tags": ["Math", "Olympiad", "Competition"]
+    },
+    {
+        "contestName": "Music Talent Hunt",
+        "image": "https://i.ibb.co/7RhPXQt/logo-Contest.jpg",
+        "participationCount": 540,
+        "contestShortDescription": "Showcase your musical talent and win exciting prizes. Perform in front of a panel of judges, gain exposure, receive valuable feedback, and compete with other talented musicians. Take your music career to new heights.",
+        "tags": ["Music", "Talent", "Competition"]
+    }
+]
