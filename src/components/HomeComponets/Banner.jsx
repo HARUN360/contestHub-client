@@ -1,5 +1,6 @@
 import {  useState } from "react";
 import SearchContest from "./SearchContest";
+import './ExtraCss/Banner.css'
 const Banner = () => {
     const [search, setSearch] = useState('');
     const [count, setCout] = useState(false)
@@ -14,7 +15,7 @@ const Banner = () => {
     return (
         <div className="my-6">
 
-            <div className="hero rounded-xl my-6" style={{ backgroundImage: 'url(https://i.ibb.co/QbGvnyY/banner-Contest.jpg)' }}>
+            <div className="hero rounded-xl my-6 banner" >
                 <div className="hero-content">
                     
                     <div className=" text-center py-[100px]">

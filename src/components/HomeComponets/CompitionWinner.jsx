@@ -18,7 +18,7 @@ const CompitionWinner = () => {
     return (
         <div className="my-10">
            <h1 className="text-4xl font-semibold text-center my-4">Competition! Win big!</h1>
-           <div className="min-h-screen bg-gray-400 py-10 rounded-lg">
+           <div className="min-h-screen bg-[#1A103D] text-white py-10 rounded-lg">
              <div className="flex items-center justify-around flex-col lg:flex-row">
              {
                 winnerman.slice(0,3).map(item => <CompitionWinnerSingle key={item._id} item={item}></CompitionWinnerSingle>)

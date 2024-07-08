@@ -19,7 +19,7 @@ const ContestSingle = ({ item }) => {
     return (
         <div>
             <div className="card  bg-base-100 shadow-xl lg:h-[500px]">
-                <figure><img src={image} className="w-[300px]" alt="Contest" /></figure>
+                <figure><img src={image} className="w-[300px]" alt="pic" /></figure>
                 <div className="card-body">
                     <h2 className="card-title text-4xl font-bold">{name}</h2>
                     <p className="text-2xl font-semibold"> participationCount : {participet.length}
